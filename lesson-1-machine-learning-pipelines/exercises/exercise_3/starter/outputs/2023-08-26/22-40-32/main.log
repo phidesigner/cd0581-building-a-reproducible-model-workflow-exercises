@@ -1,0 +1,19 @@
+[2023-08-26 22:40:32,786][azureml.mlflow._internal.utils][INFO] - Parsing tracking uri /mlflow/v1.0/subscriptions/cdfebb73-07a2-4fa8-b753-62da76199209/resourceGroups/Udacity/providers/Microsoft.MachineLearningServices/workspaces/MLflows
+[2023-08-26 22:40:32,787][azureml.mlflow._internal.utils][INFO] - Tracking uri /mlflow/v1.0/subscriptions/cdfebb73-07a2-4fa8-b753-62da76199209/resourceGroups/Udacity/providers/Microsoft.MachineLearningServices/workspaces/MLflows has sub id cdfebb73-07a2-4fa8-b753-62da76199209, resource group Udacity, and workspace MLflows
+[2023-08-26 22:40:32,787][azureml.mlflow._common._cloud.cloud][INFO] - Fetching cloud metadata from known urls
+[2023-08-26 22:40:32,855][azureml.mlflow._common._cloud.cloud][INFO] - Cloud was fetched from known metadataurls
+[2023-08-26 22:40:32,856][azureml.mlflow._common._cloud.cloud][INFO] - Cloud metadata not found so falling back to AzureCloud as default
+[2023-08-26 22:40:32,856][azure.identity._credentials.environment][INFO] - No environment configuration found.
+[2023-08-26 22:40:32,856][azure.identity._credentials.managed_identity][INFO] - ManagedIdentityCredential will use Azure ML managed identity
+[2023-08-26 22:40:32,859][azure.core.pipeline.policies.http_logging_policy][INFO] - Request URL: 'http://127.0.0.1:46808/MSI/auth?api-version=REDACTED&resource=REDACTED'
+Request method: 'GET'
+Request headers:
+    'secret': 'REDACTED'
+    'User-Agent': 'azsdk-python-identity/1.14.0 Python/3.8.17 (Linux-5.15.0-1040-azure-x86_64-with-glibc2.10)'
+No body was attached to the request
+[2023-08-26 22:40:32,863][azure.core.pipeline.policies.http_logging_policy][INFO] - Response status: 200
+Response headers:
+    'Content-Type': 'application/json'
+    'Date': 'Sat, 26 Aug 2023 22:40:32 GMT'
+    'Transfer-Encoding': 'chunked'
+[2023-08-26 22:40:32,864][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential

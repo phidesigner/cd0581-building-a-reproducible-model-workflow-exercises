@@ -1,0 +1,56 @@
+{
+    "os": "Linux-5.15.0-1040-azure-x86_64-with-glibc2.31",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-08-27T10:21:53.495873",
+    "startedAt": "2023-08-27T10:21:52.285374",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "artifact",
+        "put",
+        "--name",
+        "exercise_4/genres_mod.parquet",
+        "--type",
+        "raw_data",
+        "--description",
+        "A modified version of the songs dataset",
+        "genres_mod.parquet"
+    ],
+    "state": "running",
+    "program": "/anaconda/bin/wandb",
+    "git": {
+        "remote": "https://github.com/udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": null
+    },
+    "email": null,
+    "root": "/mnt/batch/tasks/shared/LS_root/mounts/clusters/idiazl1/code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter",
+    "host": "idiazl1",
+    "username": "azureuser",
+    "executable": "/anaconda/bin/python3.10",
+    "cpu_count": 2,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 2593.906,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2593.906,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.906,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 118.05400085449219,
+        "used": 58.11150360107422
+    },
+    "memory": {
+        "total": 13.64841079711914
+    }
+}

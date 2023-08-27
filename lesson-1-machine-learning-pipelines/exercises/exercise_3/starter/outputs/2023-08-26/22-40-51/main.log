@@ -1,0 +1,14 @@
+[2023-08-26 22:40:51,437][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:40:51,577][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:40:51,715][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:40:53,362][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:40:53,478][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:41:05,290][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:41:05,393][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:41:06,104][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:41:06,235][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:41:06,332][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:41:07,966][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:41:08,071][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:41:22,441][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 22:41:22,546][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential

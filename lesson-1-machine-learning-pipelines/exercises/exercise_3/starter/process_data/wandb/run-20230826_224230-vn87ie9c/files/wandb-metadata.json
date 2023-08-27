@@ -1,0 +1,56 @@
+{
+    "os": "Linux-5.15.0-1040-azure-x86_64-with-glibc2.10",
+    "python": "3.8.17",
+    "heartbeatAt": "2023-08-26T22:42:31.433695",
+    "startedAt": "2023-08-26T22:42:30.147488",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "iris.csv:latest",
+        "--artifact_name",
+        "cleaned_data.csv",
+        "--artifact_type",
+        "processed_data",
+        "--artifact_description",
+        "Cleaned data"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "run.py",
+    "git": {
+        "remote": "https://github.com/udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": null
+    },
+    "email": null,
+    "root": "/mnt/batch/tasks/shared/LS_root/mounts/clusters/idiazl1/code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/process_data",
+    "host": "idiazl1",
+    "username": "azureuser",
+    "executable": "/anaconda/envs/mlflow-df8d04b591f7433afbb9ff8fc585044ae2d0c6b3/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 2095.079,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2095.079,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2095.079,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 118.05400085449219,
+        "used": 58.10017395019531
+    },
+    "memory": {
+        "total": 13.64841079711914
+    }
+}

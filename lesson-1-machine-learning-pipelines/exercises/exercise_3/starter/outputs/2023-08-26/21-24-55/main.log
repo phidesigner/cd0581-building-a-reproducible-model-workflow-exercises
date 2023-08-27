@@ -1,0 +1,15 @@
+[2023-08-26 21:24:56,373][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:24:56,535][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:24:56,642][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:27:06,517][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:27:07,119][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:27:20,957][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:27:21,056][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:27:21,807][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:27:21,943][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:27:22,064][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:34:07,419][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:34:07,425][urllib3.connectionpool][WARNING] - Retrying (Retry(total=4, connect=5, read=4, redirect=5, status=5)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))': /mlflow/v2.0/subscriptions/cdfebb73-07a2-4fa8-b753-62da76199209/resourceGroups/Udacity/providers/Microsoft.MachineLearningServices/workspaces/MLflows/api/2.0/mlflow/runs/set-tag
+[2023-08-26 21:34:07,861][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:34:28,356][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential
+[2023-08-26 21:34:28,466][azure.identity._credentials.chained][INFO] - ChainedTokenCredential acquired a token from ManagedIdentityCredential

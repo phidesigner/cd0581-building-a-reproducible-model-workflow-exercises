@@ -1,0 +1,31 @@
+{
+    "os": "Linux-5.15.0-1040-azure-x86_64-with-glibc2.31",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-08-27T15:11:29.807719",
+    "startedAt": "2023-08-27T15:11:28.094893",
+    "docker": null,
+    "cpu_count": 2,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "exercise_4/genres_mod.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "cleaned_data"
+    ],
+    "state": "running",
+    "program": "/mnt/batch/tasks/shared/LS_root/mounts/clusters/idiazl1/code/cd0581-building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/run.py",
+    "codePath": "lesson-2-data-exploration-and-preparation/exercises/exercise_5/solution/run.py",
+    "git": {
+        "remote": "https://github.com/udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": null,
+    "root": "/mnt/batch/tasks/shared/LS_root/mounts/clusters/idiazl1/code/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "idiazl1",
+    "username": "azureuser",
+    "executable": "/anaconda/envs/mlflow-623f5f8a3698bf05f91c143798245e981cf448cc/bin/python"
+}
