@@ -1,0 +1,27 @@
+2023-08-27 19:52:29,576 INFO    MainThread:113338 [wandb_setup.py:_flush():76] Current SDK version is 0.15.8
+2023-08-27 19:52:29,576 INFO    MainThread:113338 [wandb_setup.py:_flush():76] Configure stats pid to 113338
+2023-08-27 19:52:29,576 INFO    MainThread:113338 [wandb_setup.py:_flush():76] Loading settings from /home/azureuser/.config/wandb/settings
+2023-08-27 19:52:29,576 INFO    MainThread:113338 [wandb_setup.py:_flush():76] Loading settings from /mnt/batch/tasks/shared/LS_root/mounts/clusters/idiazl1/code/Users/idiazl/cd0581-building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/settings
+2023-08-27 19:52:29,577 INFO    MainThread:113338 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-27 19:52:29,577 INFO    MainThread:113338 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-08-27 19:52:29,577 INFO    MainThread:113338 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/run.py', 'program': '/mnt/batch/tasks/shared/LS_root/mounts/clusters/idiazl1/code/Users/idiazl/cd0581-building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/run.py'}
+2023-08-27 19:52:29,577 INFO    MainThread:113338 [wandb_init.py:_log_setup():507] Logging user logs to /mnt/batch/tasks/shared/LS_root/mounts/clusters/idiazl1/code/Users/idiazl/cd0581-building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230827_195229-72iwydt6/logs/debug.log
+2023-08-27 19:52:29,577 INFO    MainThread:113338 [wandb_init.py:_log_setup():508] Logging internal logs to /mnt/batch/tasks/shared/LS_root/mounts/clusters/idiazl1/code/Users/idiazl/cd0581-building-a-reproducible-model-workflow-exercises/lesson-2-data-exploration-and-preparation/exercises/exercise_6/solution/wandb/run-20230827_195229-72iwydt6/logs/debug-internal.log
+2023-08-27 19:52:29,577 INFO    MainThread:113338 [wandb_init.py:init():547] calling init triggers
+2023-08-27 19:52:29,577 INFO    MainThread:113338 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {}
+2023-08-27 19:52:29,577 INFO    MainThread:113338 [wandb_init.py:init():596] starting backend
+2023-08-27 19:52:29,577 INFO    MainThread:113338 [wandb_init.py:init():600] setting up manager
+2023-08-27 19:52:29,579 INFO    MainThread:113338 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-08-27 19:52:29,580 INFO    MainThread:113338 [wandb_init.py:init():606] backend started and connected
+2023-08-27 19:52:29,587 INFO    MainThread:113338 [wandb_init.py:init():697] updated telemetry
+2023-08-27 19:52:29,867 INFO    MainThread:113338 [wandb_init.py:init():730] communicating run to backend with 60.0 second timeout
+2023-08-27 19:52:30,379 INFO    MainThread:113338 [wandb_run.py:_on_init():2180] communicating current version
+2023-08-27 19:52:30,461 INFO    MainThread:113338 [wandb_run.py:_on_init():2189] got version response 
+2023-08-27 19:52:30,461 INFO    MainThread:113338 [wandb_init.py:init():781] starting run threads in backend
+2023-08-27 19:52:32,003 INFO    MainThread:113338 [wandb_run.py:_console_start():2159] atexit reg
+2023-08-27 19:52:32,003 INFO    MainThread:113338 [wandb_run.py:_redirect():2014] redirect: wrap_raw
+2023-08-27 19:52:32,003 INFO    MainThread:113338 [wandb_run.py:_redirect():2079] Wrapping output streams.
+2023-08-27 19:52:32,003 INFO    MainThread:113338 [wandb_run.py:_redirect():2104] Redirects installed.
+2023-08-27 19:52:32,011 INFO    MainThread:113338 [wandb_init.py:init():822] run started, returning control to user process
+2023-08-27 19:52:46,767 WARNING MsgRouterThr:113338 [router.py:message_loop():77] message_loop has been closed
